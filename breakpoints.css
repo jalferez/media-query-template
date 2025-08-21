@@ -1,0 +1,44 @@
+/* Mobile-first responsive breakpoints template */
+
+/* Small phones */
+@media (min-width: 375px){  /* 23.4375rem */
+
+}
+
+/* Larger phones */
+@media (min-width: 414px){  /* 25.875rem */
+
+
+}
+
+/* Small tablets / large phones in landscape */
+@media (min-width: 640px){  /* 40rem */
+
+}
+
+/* Tablets */
+@media (min-width: 768px){  /* 48rem */
+
+
+}
+
+/* Small laptops / iPad landscape */
+@media (min-width: 1024px){  /* 64rem */
+
+}
+
+/* Desktops / larger laptops */
+@media (min-width: 1280px){  /* 80rem */
+
+}
+
+/* Large desktops / ultrawide monitors */
+@media (min-width: 1440px){  /* 90rem */
+
+}
+
+/* Very large desktops / 4K displays */
+@media (min-width: 1920px){  /* 120rem */
+
+    
+}

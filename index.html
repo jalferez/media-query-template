@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Media Query Template Demo</title>
+  <link rel="stylesheet" href="/breakpoints.css">
+  <style> 
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      padding: 2rem;
+    }
+    .demo {
+      padding: 1rem;
+      background: lightgray;
+    }
+
+    @media (min-width: 768px) {
+      .demo {
+        background: lightblue;
+      }
+    }
+
+    @media (min-width: 1280px) {
+      .demo {
+        background: lightgreen;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>📱 Media Query Template Demo</h1>
+  <p class="demo">Resize the screen to see the background color change.</p>
+</body>
+</html>
