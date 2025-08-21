@@ -8,7 +8,6 @@
 /* Larger phones */
 @media (min-width: 414px){  /* 25.875rem */
 
-
 }
 
 /* Small tablets / large phones in landscape */
@@ -18,7 +17,6 @@
 
 /* Tablets */
 @media (min-width: 768px){  /* 48rem */
-
 
 }
 
@@ -39,6 +37,5 @@
 
 /* Very large desktops / 4K displays */
 @media (min-width: 1920px){  /* 120rem */
-
     
 }
